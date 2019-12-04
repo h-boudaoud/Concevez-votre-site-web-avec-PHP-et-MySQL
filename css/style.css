@@ -1,0 +1,75 @@
+html, body {
+    background-color: #000;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    //font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+.error ul{
+    font-size: .8rem;
+}
+
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    max-width: 100vw;
+    margin: 0 1rem;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.content {
+    background-color: #fff;
+    text-align: center;
+    max-width: 100vw;
+    margin: 0 1rem;
+}
+
+.title {
+    margin-top: 1rem ;
+    font-size: 24px;
+}
+.head{
+    /*background-color: #000;*/
+    /*color:#fff;*/
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0 ;
+}
+.chatList {
+    text-align: left;
+    overflow: scroll;
+    height: 70vh;
+    min-width: 70vw;
+
+}
+
+.m-b-md {
+    margin-bottom: 1rem;
+}
+
+.msg {
+    display: inline-block;
+    margin: 0 0 0 10rem;
+    padding: .2rem 1rem;
+    max-width: 70%;
+    min-width: 10%;
+    border-radius: 10px/20px;
+}
+.col {
+    display: inline-grid;
+    margin: 0 2rem;
+}
+.error{
+    background:rgba(255,0,0,.2);
+    text-align: left;
+}
