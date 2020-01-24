@@ -6,12 +6,10 @@
 
 ##             l'énoncé du projet                   ##
 
-voir le lien suivant
-
-http://exercices.openclassrooms.com/assessment/40?id=918836&slug=
+voir le lien suivant  [Exercice](http://exercices.openclassrooms.com/assessment/40?id=918836&slug=
 concevez-votre-site-web-avec-php-et-mysql&login=7324830&tk=
 9c50f3437ebc81d0d913e32ee1859238&sbd=2016-02-01&sbdtk=
-fa78d6dd3126b956265a25af9b322d55
+fa78d6dd3126b956265a25af9b322d55)
 
 
 
